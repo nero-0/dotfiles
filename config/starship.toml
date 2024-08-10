@@ -5,7 +5,7 @@ truncation_length = 10
 truncate_to_repo = false
 
 [time]
-format = "[at](italic dimmed) [$time]($style)"
+format = "[at](italic dimmed) [$time]($style) "
 disabled = false
 
 [battery]
